@@ -13,3 +13,6 @@ In the example we use the Oscilloscope Dual and we configured SciCompiler to use
 # Documentation
 
 Read documentation in Doc folder
+
+# Compile FPGA
+In order to compiler the scf file for R5560A, download and install SciCompiler 2022.7.0.4 or newer. http://www.scicompiler.cloud
